@@ -21,7 +21,7 @@ Then, the process will receive another `content_length` bytes into buffer `v7`, 
 ![](img/2.png)
 
 ## Exploit
-[exploit](exploit.mp4)
+![exploit](exploit.mp4)
 
 ## Patch
 Archer AX21(US)_V3.6_230621
