@@ -8,8 +8,8 @@ Remote Code execution
 TP-Link
 
 ## Product
-Archer AX21(US)_V3_1.1.4 Build 20230219
-Archer AX21(US)_V3.6_1.1.4 Build 20230219
+- Archer AX21(US)_V3_1.1.4 Build 20230219
+- Archer AX21(US)_V3.6_1.1.4 Build 20230219
 
 ## Affected component
 /usr/lib/libtmpv2.so
@@ -23,9 +23,10 @@ Then, the process will receive another `content_length` bytes into buffer `v7`, 
 ## Exploit
 [exploit.mp4](./exploit.mp4)
 ## Patch
-Archer AX21(US)_V3.6_230621
-Archer AX21(US)_V3_230621
+- Archer AX21(US)_V3.6_230621
+- Archer AX21(US)_V3_230621
 
 ## Warning
 Since this vulnerability can lead to remote code execution on LAN side, please update the firmware as soon as possible.
+
 https://www.tp-link.com/us/support/download/archer-ax21/#Firmware
