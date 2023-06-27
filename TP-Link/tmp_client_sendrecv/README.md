@@ -30,3 +30,6 @@ Then, the process will receive another `content_length` bytes into buffer `v7`, 
 Since this vulnerability can lead to remote code execution on LAN side, please update the firmware as soon as possible.
 
 https://www.tp-link.com/us/support/download/archer-ax21/#Firmware
+
+## Acknowledgment
+Reported by Xiaobye, working with DEVCORE Internship Program
